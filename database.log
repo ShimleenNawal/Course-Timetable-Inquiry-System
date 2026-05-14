@@ -1,0 +1,1592 @@
+[2026-05-11 17:40:56] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-11 17:40:56] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-11 17:43:41] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-11 17:43:41] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-11 17:44:26] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 17:44:26] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 17:44:56] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 17:44:56] [INFO] searchByCode(COMP3003) — 2 result(s)
+[2026-05-11 17:45:05] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 17:45:05] [INFO] searchByInstructor(Dr.) - 5 result(s)
+[2026-05-11 17:45:18] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 17:45:18] [INFO] searchByInstructor(Dr. Smith) - 0 result(s)
+[2026-05-11 17:45:30] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 17:45:30] [INFO] searchByInstructor(Dr.Smith) - 2 result(s)
+[2026-05-11 17:57:30] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 17:57:30] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:01:24] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:01:24] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:01:37] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:01:37] [INFO] searchByCode(COMP3013) — MISS
+[2026-05-11 18:01:45] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:01:45] [INFO] searchByCode(COMP3003) — 2 result(s)
+[2026-05-11 18:01:53] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:01:53] [INFO] searchByInstructor(Dr.Smith) - 2 result(s)
+[2026-05-11 18:02:06] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:02:06] [INFO] searchByCode(COMP3003) — 2 result(s)
+[2026-05-11 18:02:14] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:02:14] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:02:20] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:02:20] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:02:22] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:02:22] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:02:49] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:02:49] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:03:37] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:03:37] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:05:51] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-11 18:05:51] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-11 18:06:05] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:06:05] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:08:56] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:08:56] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:09:10] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:09:10] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:11:26] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:11:26] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:11:50] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:11:50] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:14:17] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:14:17] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:14:24] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:14:24] [INFO] searchByCode(3003) — MISS
+[2026-05-11 18:14:30] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:14:30] [INFO] searchByCode(3013) — MISS
+[2026-05-11 18:14:35] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:14:35] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 18:14:44] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:14:44] [INFO] searchByCode(COMP4050) — 1 result(s)
+[2026-05-11 18:14:49] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 18:14:49] [INFO] searchByInstructor(Dr.Smith) - 2 result(s)
+[2026-05-11 20:54:18] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-11 20:54:18] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-11 20:54:52] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 20:54:52] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 20:55:18] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 20:55:18] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 21:05:14] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-11 21:05:14] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-11 21:08:04] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 21:08:04] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 21:08:09] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 21:08:09] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 21:16:18] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-11 21:16:18] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-11 21:17:03] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 21:17:03] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 21:18:49] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 21:18:49] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 21:18:49] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 21:18:49] [INFO] viewAll - returned 5 course(s)
+[2026-05-11 21:19:04] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 21:19:04] [INFO] searchByCode(COMP3003) — 2 result(s)
+[2026-05-11 21:27:17] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-11 21:27:17] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-11 22:53:03] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 22:53:03] [INFO] searchByCode(COMP3013) — MISS
+[2026-05-11 22:53:08] [DEBUG] Cache HIT for timetable.csv
+[2026-05-11 22:53:08] [INFO] searchByCode(COMP3003) — 2 result(s)
+[2026-05-13 01:07:40] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-13 01:07:40] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-13 01:08:01] [DEBUG] Cache HIT for timetable.csv
+[2026-05-13 01:08:01] [INFO] searchByCode(COMP3013) — MISS
+[2026-05-13 01:08:06] [DEBUG] Cache HIT for timetable.csv
+[2026-05-13 01:08:06] [INFO] searchByCode(COMP3003) — 2 result(s)
+[2026-05-13 01:08:14] [DEBUG] Cache HIT for timetable.csv
+[2026-05-13 01:08:14] [INFO] searchByInstructor(Dr.Smith) - 2 result(s)
+[2026-05-13 01:08:16] [DEBUG] Cache HIT for timetable.csv
+[2026-05-13 01:08:16] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 21:27:02] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-14 21:27:02] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-14 21:27:35] [DEBUG] Cache HIT for timetable.csv
+[2026-05-14 21:27:35] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 21:29:23] [DEBUG] Cache HIT for timetable.csv
+[2026-05-14 21:29:23] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 21:47:35] [DEBUG] Cache HIT for timetable.csv
+[2026-05-14 21:47:35] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 21:48:29] [DEBUG] Cache HIT for timetable.csv
+[2026-05-14 21:48:29] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 22:09:09] [DEBUG] Cache HIT for timetable.csv
+[2026-05-14 22:09:09] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 22:33:27] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-14 22:33:27] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-14 22:33:35] [DEBUG] Cache HIT for timetable.csv
+[2026-05-14 22:33:35] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 22:33:58] [DEBUG] Cache HIT for timetable.csv
+[2026-05-14 22:33:58] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 22:40:50] [DEBUG] Cache MISS for timetable.csv (file switched)
+[2026-05-14 22:40:50] [INFO] Loaded 5 courses from timetable.csv (bad=0, duplicates=0)
+[2026-05-14 22:41:09] [DEBUG] Cache HIT for timetable.csv
+[2026-05-14 22:41:09] [INFO] viewAll - returned 5 course(s)
+[2026-05-14 22:46:54] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-14 22:46:54] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:46:54] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:46:54] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-14 22:46:54] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-14 22:46:54] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:47:01] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-14 22:47:01] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:47:01] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:47:01] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-14 22:47:01] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-14 22:47:01] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:47:09] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:47:09] [INFO] viewAll - returned 1872 course(s)
+[2026-05-14 22:47:28] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:47:28] [INFO] viewAll - returned 1872 course(s)
+[2026-05-14 22:52:37] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-14 22:52:37] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-14 22:52:37] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-14 22:52:37] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 22:52:38] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 22:52:38] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-14 22:52:38] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-14 22:52:38] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:53:14] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:53:14] [INFO] viewAll - returned 1872 course(s)
+[2026-05-14 22:56:13] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:56:13] [INFO] searchByInstructor(Dr. Eric Pengfei Zhao) - 5 result(s)
+[2026-05-14 22:56:30] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:56:30] [INFO] searchByInstructor(Goliath) - 8 result(s)
+[2026-05-14 22:56:41] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:56:41] [INFO] searchByCode(Data Structure) — MISS
+[2026-05-14 22:56:57] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:56:57] [INFO] viewAll - returned 1872 course(s)
+[2026-05-14 22:58:50] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:58:50] [INFO] searchByCode(ACCT2003) — 12 result(s)
+[2026-05-14 22:59:24] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 22:59:24] [INFO] searchByCode(ACCT2003) — 12 result(s)
+[2026-05-14 23:18:44] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-14 23:18:44] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:18:44] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:18:44] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-14 23:18:44] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-14 23:18:44] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:18:52] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:18:52] [INFO] viewAll - returned 1872 course(s)
+[2026-05-14 23:19:10] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:19:10] [INFO] searchByCode(ACCT2003) — 12 result(s)
+[2026-05-14 23:19:39] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:19:39] [INFO] searchByCode(ACCT2003) — 12 result(s)
+[2026-05-14 23:21:45] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-14 23:21:45] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:21:45] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:21:45] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-14 23:21:45] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-14 23:21:45] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:21:55] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:21:55] [INFO] searchByCode(ACCT2003) — 12 result(s)
+[2026-05-14 23:26:15] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-14 23:26:15] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:26:15] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:26:15] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-14 23:26:15] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-14 23:26:15] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:26:21] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:26:21] [INFO] searchByCode(ACCT2003): 12 result(s)
+[2026-05-14 23:26:46] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-14 23:26:46] [INFO] searchByCode(ACCT2003): 12 result(s)
+[2026-05-14 23:56:47] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-14 23:56:47] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-14 23:56:47] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-14 23:56:47] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-14 23:56:47] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-14 23:56:47] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 00:02:59] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-15 00:02:59] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 00:02:59] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 00:02:59] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-15 00:02:59] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-15 00:02:59] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:12:08] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-15 01:12:08] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 01:12:08] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 01:12:08] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-15 01:12:08] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-15 01:12:08] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:12:16] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:12:16] [INFO] searchByCode(ACCT2003): 12 result(s)
+[2026-05-15 01:12:44] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:12:44] [INFO] viewAll - returned 1872 course(s)
+[2026-05-15 01:43:36] [DEBUG] Cache MISS for courses_bnbu.csv (file switched)
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1 skipped: ﻿Courses List for Exchange-in students_Sem 1 of 2025-2026,,,,,,,,,,,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 2 skipped: "Sorted by Offering Unit, Offering Programme & Course Code",,,,,,,,,,as of 20250520,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 3 skipped: "Offering
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 4 skipped: Unit","Offering
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 5 skipped: Programme",Course Code,Course Name,"Units
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 6 skipped: (Credits)",Teachers,Schedule,Hours,"Course
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 7 skipped: Category",Medium of Instruction (MOI),Remark,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 207 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Thu 16:00-17:50,2,FE,English,,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 208 skipped: FBM,AE,ECON3013,Applied Econometrics (1005),3,,Fri 15:00-15:50,1,FE,English,,,
+[2026-05-15 01:43:36] [WARN] Invalid course on line 302 (bad code: FBM) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 303 (bad code: FBM) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 304 (bad code: FBM) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 305 (bad code: FBM) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 571 (bad code: FBM) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 572 (bad code: FBM) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 574 (bad code: FBM) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 575 (bad code: FBM) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 592 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 593 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 596 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 597 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 739 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 740 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 760 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 761 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 762 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 763 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 779 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 780 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 786 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 787 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 788 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 789 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 797 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 856 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 857 (bad code: FHSS) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1403 (bad code: SCC) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1463 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1464 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1465 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1466 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1467 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1468 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1469 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1470 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1471 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1472 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1473 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1474 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1475 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1476 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1477 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1478 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1479 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1480 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1481 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1482 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1483 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1486 skipped: SGE,CLCC,CHI1183,Contemporary Chinese Society and Thoughts (Social Practice) (1001),2,Prof. Hongyu WU & Mr. Simon Yong LIU,,,UC,Chinese and English,Intermediate Chinese proficiency required (Chinese students only),,
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1487 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1488 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1489 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1490 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1491 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1492 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1493 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1494 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1495 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1496 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1497 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1498 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1499 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1500 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1501 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1502 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1503 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1504 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1505 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1506 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1507 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1508 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1509 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1510 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1511 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1512 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1513 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1514 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1515 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1516 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1517 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1518 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1519 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1520 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1521 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1522 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1523 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1524 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1525 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1526 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1527 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1528 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1529 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1530 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1531 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1532 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1533 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1534 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1535 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1536 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1537 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1538 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1539 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1540 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1541 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1542 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1543 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1544 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1545 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1546 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1547 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1548 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1551 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1552 skipped: SGE,CLCC,GCCH1033,Elementary Chinese I (1001),3,Ms. Candy Jingjing CAI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1553 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1554 skipped: SGE,CLCC,GCCH2003,Intermediate Chinese I (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1555 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1556 skipped: SGE,CLCC,GCCH2013,Intermediate Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1557 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,2,UC,English,A language test is needed.,,
+[2026-05-15 01:43:36] [WARN] Corrupt CSV line 1558 skipped: SGE,CLCC,GCCH3013,Advanced Chinese II (1001),3,Dr. Jenny Yan CUI,Not Arranged,1,UC,English,A language test is needed.,,
+[2026-05-15 01:43:36] [WARN] Invalid course on line 1987 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2001 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2002 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2003 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2004 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2005 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2006 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2007 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2008 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2009 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [WARN] Invalid course on line 2010 (bad code: SGE) skipped.
+[2026-05-15 01:43:36] [INFO] Loaded 1872 courses from courses_bnbu.csv (bad=140, duplicates=0)
+[2026-05-15 01:43:36] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:45:46] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:45:46] [INFO] searchByCode(COMP3003): MISS
+[2026-05-15 01:46:51] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:46:51] [INFO] searchByCode(ACCT2003): 12 result(s)
+[2026-05-15 01:47:07] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:47:07] [INFO] searchByCode(ACCT3043): 12 result(s)
+[2026-05-15 01:47:24] [DEBUG] Cache HIT for courses_bnbu.csv
+[2026-05-15 01:47:24] [INFO] searchByCode(AI2033): 4 result(s)

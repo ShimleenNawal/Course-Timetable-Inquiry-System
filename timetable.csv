@@ -1,0 +1,6 @@
+# code,title,section,instructor,day,time,credits,offering_unit
+COMP3003,Computer Networks,A,Dr.Smith,Monday,10:00,3,FHSS
+COMP3003,Computer Networks,B,Dr.Smith,Wednesday,14:00,3,FHSS
+COMP2001,Data Structures,A,Dr.Johnson,Tuesday,09:00,3,STEM
+MATH2010,Linear Algebra,A,Dr.Ahmed,Thursday,11:00,3,STEM
+COMP4050,Machine Learning,A,Dr.Patel,Friday,13:00,90min,Room405
